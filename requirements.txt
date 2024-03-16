@@ -1,0 +1,11 @@
+numpy
+tensorflow
+matplotlib
+pydicom
+SimpleITK
+opencv-python-headless
+scikit-learn
+scipy
+fastapi
+uvicorn
+requests
